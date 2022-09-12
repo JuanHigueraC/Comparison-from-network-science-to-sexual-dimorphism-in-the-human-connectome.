@@ -1,9 +1,9 @@
 # Comparison-from-network-science-to-sexual-dimorphism-in-the-human-connectome.
 This project was realized by
 
-**Juan Camilo Higuera Calderon**
+**Juan C Higuera C**
 
-**Kevin Nicolas Ramos Guasca**
+**Kevin N Ramos G**
 
 This project was presented for the course **Advanced biophysics** of the National University of Colombia.
 
