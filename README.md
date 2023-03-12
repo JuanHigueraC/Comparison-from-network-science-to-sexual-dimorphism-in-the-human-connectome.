@@ -34,7 +34,7 @@ In this plot its possible see for the same consensus, women´s structural brain 
 
 We also study the nodal properties only with consensus of 20% and 100%.
 
-The degree centrality in the nodes from smallest to largest was for the 20% consensus was:
+The degree centrality in the nodes from smallest to largest for the 20% consensus was:
 ![image](https://github.com/JuanHigueraC/Comparison-from-network-science-to-sexual-dimorphism-in-the-human-connectome./blob/3c42e2b044db21643594b5bf34671efdc1e137bd/Images/degree%20for%20the%20nodes.PNG)
 
 **Figure 3. Degree centrality from the smallest to the largest.**
