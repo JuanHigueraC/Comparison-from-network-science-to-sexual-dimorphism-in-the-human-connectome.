@@ -7,7 +7,7 @@ This project was realized by
 
 This project was presented for the course **Advanced Biophysics** of the National University of Colombia.
 
-In the present work, a comparison was made from network science to the human connectome of men and women, this through the establishment of consensus connectomes which incorporated the links present in at least a certain percentage of the population. It was found that regardless of the consensus, the connectome of men exhibits greater segregation and that of women greater integration, in turn, the connectome of men is more asymmetric and non-random. It was found that in terms of local connectivity the connections of men and women do not seem to differ significantly, however in terms of global connectivity they exhibit clear differences.
+In the present work, a comparison of the connectomes of men and women was made using network science, this through the establishment of consensus connectomes which incorporated the links present in at least a certain percentage of the population. It was found that regardless of the consensus, the connectome of men exhibits greater segregation and that of women greater integration, in turn the connectome of women is more symmetrical and random. It was found that in terms of local connectivity the connections of men and women do not seem to differ significantly, however in terms of global connectivity they exhibit clear differences.
 
 ## Data and methods
 The Data was obtained from https://pitgroup.org/connectome/. The data downloaded was consensus structural connectome matrices, this were builded using data from the HCP 1200 (https://www.humanconnectome.org/study/hcp-young-adult/document/1200-subjects-data-release).
